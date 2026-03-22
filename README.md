@@ -19,6 +19,10 @@
 
 ## 🌟 Overview
 
+<div align="center">
+  <img src="assests/Device.jpeg" alt="Edu Track Pro Device" width="600"/>
+</div>
+
 **Edu Track Pro** automates the entire student attendance lifecycle, bringing schools and universities into the 21st century. Using highly responsive ESP8266 microcontrollers and MFRC522 RFID scanners, our hardware securely and instantly transmits tap-in and tap-out data to a custom PHP/MySQL backend over strictly authenticated APIs.
 
 Administrators and students then interact with a beautiful, fully responsive dashboard loaded with real-time analytics, automated logging, and easy-export capabilities. Forget manual roll calls—welcome to the future of presence tracking.
@@ -46,6 +50,10 @@ Administrators and students then interact with a beautiful, fully responsive das
 
 ## 🏗️ Architecture & Tech Stack
 
+<div align="center">
+  <img src="assests/flow chart.png" alt="System Flowchart" width="800"/>
+</div>
+
 ```mermaid
 graph LR
     A[RFID Card Tap] -->|MFRC522| B(ESP8266 NodeMCU)
@@ -65,6 +73,12 @@ graph LR
 | **Security** | Bcrypt, Prepared Statements | Enterprise protection against SQLi, XSS, and CSRF. |
 
 ### 🔌 Hardware Components
+
+<div align="center">
+  <img src="assests/schmetics.png" alt="Hardware Schematics" width="400"/>
+  <img src="assests/Edu Track Pro Circuit.png" alt="Hardware Circuit" width="400"/>
+</div>
+
 | Component | Specifications | Purpose |
 | :--- | :--- | :--- |
 | **ESP8266 NodeMCU** | Wi-Fi Microcontroller | Core logic, processing, and API communication via `ESP8266HTTPClient`. |
