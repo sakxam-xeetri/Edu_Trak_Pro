@@ -75,7 +75,7 @@ graph LR
 ### 🔌 Hardware Components
 
 <div align="center">
-  <img src="assests/schmetics.png" alt="Hardware Schematics" width="400"/>
+  <img src="assests/schmetics.png" alt="Hardware Schematics" width="600"/>
   
 
 | Component | Specifications | Purpose |
