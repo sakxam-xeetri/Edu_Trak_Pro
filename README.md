@@ -138,26 +138,15 @@ Developed with passion by experts in embedded systems and web architecture.
   <table>
     <tr>
       <td align="center">
-        <a href="https://github.com/they-call-me-electronerd">
-          <img src="https://github.com/they-call-me-electronerd.png" width="100px;" alt="Sakshyam Bastakoti" style="border-radius:50%"/>
+        <a href="https://github.com/sakxam-xeetri">
+          <img src="https://github.com/sakxam-xeetri.png" width="100px;" alt="Sakshyam Bastakoti" style="border-radius:50%"/>
           <br />
           <b>Sakshyam Bastakoti</b>
           <br />
           <small>Hardware Engineer</small>
         </a>
       </td>
-      <td align="center">
-        <a href="https://github.com/zenithkandel">
-          <img src="https://github.com/zenithkandel.png" width="100px;" alt="Zenith Kandel" style="border-radius:50%"/>
-          <br />
-          <b>Zenith Kandel</b>
-          <br />
-          <small>Software Engineer</small>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+      
 
 ---
 

@@ -11,7 +11,7 @@ Version:    2.0 (MySQL PHP Backend)
 
 Developers: 
   - Sakshyam Bastakoti (Hardware Engineer) - https://github.com/they-call-me-electronerd
-  - Zenith Kandel (Software Engineer) - https://github.com/zenithkandel
+  
 
 ================================================================================
                         PROJECT OVERVIEW
