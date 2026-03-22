@@ -76,8 +76,7 @@ graph LR
 
 <div align="center">
   <img src="assests/schmetics.png" alt="Hardware Schematics" width="400"/>
-  <img src="assests/Edu Track Pro Circuit.png" alt="Hardware Circuit" width="400"/>
-</div>
+  
 
 | Component | Specifications | Purpose |
 | :--- | :--- | :--- |
