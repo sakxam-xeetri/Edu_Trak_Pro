@@ -51,7 +51,7 @@ Administrators and students then interact with a beautiful, fully responsive das
 ## 🏗️ Architecture & Tech Stack
 
 <div align="center">
-  <img src="assests/flow chart.png" alt="System Flowchart" width="800"/>
+  <img src="assests/flow chart.png" alt="System Flowchart" width="600"/>
 </div>
 
 ```mermaid
